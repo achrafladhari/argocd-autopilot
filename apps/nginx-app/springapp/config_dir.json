@@ -1,0 +1,13 @@
+{
+  "appName": "nginx-app",
+  "userGivenName": "nginx-app",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": ".",
+  "srcRepoURL": "https://github.com/argoproj/argocd-example-apps.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
